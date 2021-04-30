@@ -18,7 +18,7 @@
  *		https://code.blender.org/2013/08/fbx-binary-file-format-specification/
  */
 
-import * as THREE from '/three.min.js';
+import * as THREE from '/three.module.js';
 import { NURBSCurve } from '/NURBSCurve.js';
 import { TGALoader } from '/TGALoader.js';
 const FBXLoader = (function () {
