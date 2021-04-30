@@ -13,7 +13,7 @@
  *	NURBS curve
  **************************************************************/
 
-import * as THREE from '/three.min.js';
+import * as THREE from '/three.module.js';
 import { NURBSUtils } from '/NURBSUtils.js'
 const NURBSCurve = function (degree, knots /* array of reals */, controlPoints /* array of Vector(2|3|4) */, startKnot /* index in knots */, endKnot /* index in knots */) {
 
