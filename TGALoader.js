@@ -3,7 +3,7 @@
  * @author mrdoob / http://mrdoob.com/
  * @author takahirox / https://github.com/takahirox/
  */
-import * as THREE from '/three.min.js';
+import * as THREE from '/three.module.js';
 
 const TGALoader = function (manager) {
 
