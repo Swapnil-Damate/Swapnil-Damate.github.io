@@ -10,7 +10,7 @@
 /**************************************************************
  *	NURBS Utils
  **************************************************************/
-import * as THREE from '/three.min.js';
+import * as THREE from '/three.module.js';
 const NURBSUtils = {
 
 	/*
